@@ -10,7 +10,7 @@ https://lives.jnnews.tv/video/s10001-JNTV2-2023/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="济宁公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/济宁公共.png" group-title="山东",济宁公共
 https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="山东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东卫视.png" group-title="山东",山东卫视
-http://111.15.174.107:8969/tsfile/live/0131_1.m3u8
+https://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="山东齐鲁" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东齐鲁.png" group-title="山东",山东齐鲁
 https://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="山东生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东生活.png" group-title="山东",山东生活
