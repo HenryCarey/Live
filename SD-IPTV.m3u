@@ -9,13 +9,31 @@ https://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
 https://lives.jnnews.tv/video/s10001-JNTV2-2023/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="济宁公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/济宁公共.png" group-title="山东",济宁公共
 https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="山东教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东教育卫视.png" group-title="山东",山东教育
+#EXTINF:-1 tvg-id="6" tvg-name="山东卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东卫视.png" group-title="山东",山东卫视
+http://123.129.70.178:9901/tsfile/live/0018_1.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="山东齐鲁" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东齐鲁.png" group-title="山东",山东齐鲁
+http://123.129.70.178:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="山东生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东生活.png" group-title="山东",山东生活
+http://123.129.70.178:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="山东文旅" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东文旅.png" group-title="山东",山东文旅
+http://27.210.198.200:1029/udp/239.253.254.160:8000
+#EXTINF:-1 tvg-id="10" tvg-name="山东新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东新闻.png" group-title="山东",山东新闻
+http://123.129.70.178:9901/tsfile/live/1000_1.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="山东综艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东综艺.png" group-title="山东",山东综艺
+http://123.129.70.178:9901/tsfile/live/1001_1.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="山东少儿" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东少儿.png" group-title="山东",山东少儿
+http://123.129.70.178:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="山东农科" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东农科.png" group-title="山东",山东农科
+http://27.210.198.200:1029/udp/239.253.254.24:8000
+#EXTINF:-1 tvg-id="14" tvg-name="山东体育休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东体育休闲.png" group-title="山东",山东体育休闲
+http://123.129.70.178:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="山东教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东教育卫视.png" group-title="山东",山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/重温经典.png" group-title="山东",重温经典
+#EXTINF:-1 tvg-id="16" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/重温经典.png" group-title="山东",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="8" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="山东",CHC影迷电影
+#EXTINF:-1 tvg-id="17" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="山东",CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-#EXTINF:-1 tvg-id="9" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="山东",CHC家庭影院
+#EXTINF:-1 tvg-id="18" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="山东",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-#EXTINF:-1 tvg-id="10" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="山东",CHC动作电影
+#EXTINF:-1 tvg-id="19" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="山东",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
