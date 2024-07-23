@@ -29,11 +29,45 @@ http://27.210.198.200:1029/udp/239.253.254.24:8000
 http://123.129.70.178:9901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="山东教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/山东教育卫视.png" group-title="山东",山东教育
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/重温经典.png" group-title="山东",重温经典
+#EXTINF:-1 tvg-id="16" tvg-name="重温经典" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/HenryCarey/Live/main/Logo/重温经典.png" group-title="数字",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="17" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="山东",CHC影迷电影
+#EXTINF:-1 tvg-id="17" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="数字",CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-#EXTINF:-1 tvg-id="18" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="山东",CHC家庭影院
+#EXTINF:-1 tvg-id="18" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-#EXTINF:-1 tvg-id="19" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="山东",CHC动作电影
+#EXTINF:-1 tvg-id="19" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+#EXTINF:-1 tvg-id="20" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="数字",兵器科技
+http://nas.hssvm.com:8888/udp/225.1.2.166:5002
+#EXTINF:-1 tvg-id="21" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="数字",第一剧场
+http://nas.hssvm.com:8888/udp/225.1.2.175:5002
+#EXTINF:-1 tvg-id="22" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="数字",电视指南
+http://nas.hssvm.com:8888/udp/225.1.2.167:5002
+#EXTINF:-1 tvg-id="23" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="数字",风云剧场
+http://nas.hssvm.com:8888/udp/225.1.2.174:5002
+#EXTINF:-1 tvg-id="24" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="数字",风云音乐
+http://nas.hssvm.com:8888/udp/225.1.2.176:5002
+#EXTINF:-1 tvg-id="25" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="数字",风云足球
+http://nas.hssvm.com:8888/udp/225.1.2.168:5002
+#EXTINF:-1 tvg-id="26" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="数字",高尔夫网球
+http://nas.hssvm.com:8888/udp/225.1.2.169:5002
+#EXTINF:-1 tvg-id="27" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="数字",怀旧剧场
+http://nas.hssvm.com:8888/udp/225.1.2.173:5002
+#EXTINF:-1 tvg-id="28" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="数字",女性时尚
+http://nas.hssvm.com:8888/udp/225.1.2.172:5002
+#EXTINF:-1 tvg-id="29" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="数字",世界地理
+http://nas.hssvm.com:8888/udp/225.1.2.171:5002
+#EXTINF:-1 tvg-id="30" tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="数字",央视文化精品
+http://nas.hssvm.com:8888/udp/225.1.2.177:5002
+#EXTINF:-1 tvg-id="31" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="数字",央视台球
+http://nas.hssvm.com:8888/udp/225.1.2.170:5002
+#EXTINF:-1 tvg-id="32" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="数字",都市剧场
+http://nas.hssvm.com:8888/udp/225.1.1.146:5002
+#EXTINF:-1 tvg-id="33" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="数字",欢笑剧场
+http://nas.hssvm.com:8888/udp/225.1.1.139:5002
+#EXTINF:-1 tvg-id="34" tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="数字",纪实人文
+http://nas.hssvm.com:8888/udp/225.1.2.25:5002
+#EXTINF:-1 tvg-id="35" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="数字",金鹰纪实
+http://nas.hssvm.com:8888/udp/225.1.1.124:5002
+#EXTINF:-1 tvg-id="36" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="数字",生活时尚
+http://nas.hssvm.com:8888/udp/225.1.1.143:5002
