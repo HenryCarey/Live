@@ -9,7 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4   # ✅ 最新版本
+#      - uses: actions/checkout@v4   # ✅ 最新版本
 
       - uses: actions/setup-python@v5   # ✅ 最新版本
         with:
